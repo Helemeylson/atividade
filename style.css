@@ -36,7 +36,7 @@ body nav ul li a{
 
 }
 footer{
-    background-color:#005BFF;
+    background-color:black;
     display: flex;
     bottom: 0;
     position: fixed;
@@ -45,6 +45,7 @@ footer{
     padding: 40px;
     height: 30px;
     border: 3px solid #004BFF;
+    color:white;
   
 }
 footer div{
@@ -57,4 +58,5 @@ body{
     background-color: azure;
     padding-bottom: 130px;
 }
+
 
