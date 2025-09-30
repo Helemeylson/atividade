@@ -51,6 +51,8 @@ footer{
 footer div{
     margin-top: -65px;
     padding:20px
+    background-color:black;
+    color:white;
 
 }
 
@@ -58,5 +60,6 @@ body{
     background-color: azure;
     padding-bottom: 130px;
 }
+
 
 
